@@ -10,7 +10,7 @@
 </a>
 <br />
 
-Hi, I'm  Fabien Lartin, a Software Developer 🚀 from France.I enjoy eating food and traveling.
+Hi, I'm  Fabien Lartin, a Junior Software Developer 🚀 from France.I enjoy eating food and traveling.
 
 
 <p align="center">
@@ -24,6 +24,4 @@ Hi, I'm  Fabien Lartin, a Software Developer 🚀 from France.I enjoy eating foo
 - 📫 How to reach me: <lartin.fabien@gmail.com>;
 
 <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=guilyx&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
-</p>
 
