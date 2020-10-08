@@ -1,4 +1,4 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h2>Hey 👋, I'm <a href="https://stanleylim.me/">Stanley</a></h2>
 <a href="https://twitter.com/wolfmefive">
   <img align="left" alt="Fab's | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -14,7 +14,6 @@ Hi, I'm  Fabien Lartin, a Junior Software Developer 🚀 from France.I enjoy eat
 
 
 <p align="center">
-<img align="center" alt="GIF" src="https://media1.tenor.com/images/1c6140897565e34a4e98f618e220dc0d/tenor.gif?itemid=9358372" />
 </p>
 
 - 🔭 I’m currently working on my future
