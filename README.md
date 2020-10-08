@@ -1,4 +1,4 @@
-<h2>Hey 👋, I'm <a href="https://stanleylim.me/">Stanley</a></h2>
+<h2>Hey 👋, I'm Fab's
 <a href="https://twitter.com/wolfmefive">
   <img align="left" alt="Fab's | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -10,7 +10,7 @@
 </a>
 <br />
 
-Hi, I'm  Fabien Lartin, a Junior Software Developer 🚀 from France.I enjoy eating food and traveling.
+I a Junior Software Developer 🚀 from France.I enjoy eating food and traveling.
 
 
 <p align="center">
