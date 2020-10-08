@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/fabien-lartin-555345195/">
   <img align="left" alt="Fab's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/woflemfive/">
+<a href="https://www.instagram.com/wolfemfive/">
   <img align="left" alt="Fab's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <br />
