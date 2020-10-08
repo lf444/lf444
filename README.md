@@ -10,7 +10,7 @@
 </a>
 <br />
 
-I a Junior Software Developer 🚀 from France.I enjoy eating food and traveling.
+I a Junior Software Developer 🚀 from France. I enjoy life.
 
 
 <p align="center">
