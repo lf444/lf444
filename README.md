@@ -10,13 +10,9 @@
 </a>
 <br />
 
-Hi, I'm  Fabien Lartin, a Software Developer 🚀 from France.
-
-Beside's programming, I enjoy eating food and traveling.
+Hi, I'm  Fabien Lartin, a Software Developer 🚀 from France.I enjoy eating food and traveling.
 
 
-<!--
-**lf444/lf444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <p align="center">
 <img align="center" alt="GIF" src="https://media1.tenor.com/images/1c6140897565e34a4e98f618e220dc0d/tenor.gif?itemid=9358372" />
 </p>
