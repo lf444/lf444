@@ -1,12 +1,6 @@
 <h2>Hey 👋, I'm Fab's </h2>
-<a href="https://twitter.com/wolfmefive">
-  <img align="left" alt="Fab's | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
 <a href="https://www.linkedin.com/in/fabien-lartin-555345195/">
   <img align="left" alt="Fab's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/wolfemfive/">
-  <img align="left" alt="Fab's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <br />
 
