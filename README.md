@@ -4,14 +4,14 @@
 </a>
 <br />
 
-I a Junior Developer 🚀 from France. I enjoy life.
+I a Web3.0 / Web /Mobile Developer 🚀 from France. I enjoy life.
 
 
 <p align="center">
 </p>
 
 - 🔭 I’m currently working on my future
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Solidity
 - 💬 I am fast to respond and looking for people willing to grow their profiles by contributing regularly;
 - ⚡ Fun fact: I'm a memes necromancer.
 - 📫 How to reach me: <lartin.fabien@gmail.com>;
