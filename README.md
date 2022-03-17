@@ -1,7 +1,4 @@
 <h2>Hey 👋, I'm Fab's </h2>
-<a href="https://www.linkedin.com/in/fabien-lartin-555345195/">
-  <img align="left" alt="Fab's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
 <br />
 
 I a Web3.0 / Web /Mobile Developer 🚀 from France. I enjoy life.
