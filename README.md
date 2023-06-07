@@ -8,7 +8,7 @@ I a Web3.0 / Web /Mobile Developer 🚀 from France. I enjoy life.
 </p>
 
 - 🔭 I’m currently on some dapps
-- 🌱 I’m currently learning Solidity
+- 🌱 I’m currently learning Rust
 - 💬 I am fast to respond and looking for people willing to grow their profiles by contributing regularly;
 - ⚡ Fun fact: I'm a memes necromancer.
 
