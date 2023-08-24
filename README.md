@@ -1,7 +1,7 @@
 <h2>Hey 👋, I'm Fab's </h2>
 <br />
 
-I a Web3.0 / Web /Mobile Developer 🚀 from France. I enjoy life.
+I a Web3.0 Developer 🚀 from France. I enjoy life.
 
 
 <p align="center">
