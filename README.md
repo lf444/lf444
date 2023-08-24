@@ -40,9 +40,9 @@ I a Web3.0 Developer 🚀 from France. I enjoy life.
 
 ```mermaid
   graph TD;
-      Code-->debug;
-      debug-->???;
-      ???-->Code;
+      Analyse-->Code;
+      Code-->Prod;
+      Prod-->Code;
 ```
   
 ### ⭐ GitHub Stats
